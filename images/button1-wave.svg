@@ -25,10 +25,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="6.1163975"
+     inkscape:cx="-33.279551"
      inkscape:cy="68.402887"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer6"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,5 +63,16 @@
        sodipodi:ry="34.092648"
        d="m 80.054588,47.775368 c 0,18.828849 -15.263798,34.092647 -34.092647,34.092647 -18.82885,0 -34.092648,-15.263798 -34.092648,-34.092647 0,-18.82885 15.263798,-34.092648 34.092648,-34.092648 18.828849,0 34.092647,15.263798 34.092647,34.092648 z"
        transform="matrix(1.3932623,0,0,1.3932623,-16.537039,938.29856)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="water">
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 5.6025067,54.286706 c 3.4714212,0.310456 9.3662713,-12.349699 21.4367253,-12.749538 -6.511879,5.026801 -2.336756,11.965991 6.072284,11.623992 7.064299,0.268412 8.329294,-9.690117 18.290095,-12.453486 -3.095632,6.342108 1.286591,12.425446 8.33031,12.377817 5.729222,0.110878 8.432535,-9.067369 19.966777,-11.75523 -2.991004,7.183809 -0.686809,11.893396 9.698796,12.085162"
+       id="path4479"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>
