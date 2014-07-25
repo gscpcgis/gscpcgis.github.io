@@ -314,6 +314,21 @@ to {
 .heroimg img, .clientlogo img {
 	max-width:100%;
 }
+.screen img {
+	-moz-transition:all 0.6s ease;
+	-webkit-transition:all 0.6s ease;
+	-ms-transition:all 0.6s ease;
+	-o-transition:all 0.6s ease;
+	transition:all 0.6s ease;
+}
+.screen:hover img {
+	-moz-transform:scale(1.05);
+	-webkit-transform:scale(1.05);
+	-o-transform:scale(1.05);
+	-ms-transform:scale(1.05);
+	transform:scale(1.05);
+	z-index:2;
+}
 /*========== 4. FEATURES ==============*/
 
 .features {
