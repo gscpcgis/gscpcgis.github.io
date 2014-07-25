@@ -322,11 +322,11 @@ to {
 	transition:all 0.6s ease;
 }
 .screen:hover img {
-	-moz-transform:scale(1.025);
-	-webkit-transform:scale(1.025);
-	-o-transform:scale(1.025);
-	-ms-transform:scale(1.025);
-	transform:scale(1.025);
+	-moz-transform:scale(1.015);
+	-webkit-transform:scale(1.015);
+	-o-transform:scale(1.015);
+	-ms-transform:scale(1.015);
+	transform:scale(1.015);
 	z-index:2;
 }
 /*========== 4. FEATURES ==============*/
