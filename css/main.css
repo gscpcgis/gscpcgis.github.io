@@ -35,6 +35,11 @@ h6{font-size:16px;font-weight:600;margin:10px 0;color:#384047;}
 a{color:#5173bd;}
 a:hover,a:focus{color:#5173bd;}
 
+.row {
+	margin-top: -15px;
+	margin-bottom: -15px;
+}
+
 .preloader{
 	background-color:#FFFFFF;
 	position:fixed;
@@ -102,7 +107,7 @@ a:hover,a:focus{color:#5173bd;}
 	padding:10px 28px;
 	height:52px;
 	}
-.breath{margin:10px auto;}
+.breath{margin:50px auto;}
 
 .highlight{background:#f4f4f4;margin-top:40px;}
 
