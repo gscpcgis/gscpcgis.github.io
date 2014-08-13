@@ -1,0 +1,30 @@
+﻿-Moving a wordpress blog to our domain is $13 per year
+
+-At the moment, we are sort of stuck using limited templates
+--We could pay ~$30 for extra design options
+--We should not stay with this free option forever as it takes quite a bit of code wrangling to customize pages. To the point where a CMS is not really necessary.
+
+-If we want to really fit the website into our branding image, we need to decide a few things
+--CMS => Easy to use, some limits on functionality (can be overcome with plugins)
+----Wordpress => Probably the best way to go, but not the only way
+----Drupal => Popular Wordpress alternative
+--Work from templates => More control, less WYSIWYG (but modularity of code bits make give it coherent structure)
+----Bootstrap
+----Others
+
+-Whatever the case may be:
+--We need to get access to our domain
+----I think I could do this, but probably would be best to have Michael/Sophicity handle this
+----Even if we don't pay wordpress for the domain pointing, we need to at least get gscplanning.com to redirect to gscplanning.wordpress.com
+--We need the webserver set up
+----Ask Whitley (again...sorry Whitley) about our 1&1/GoDaddy situation and what was the webhosting situation supposed to be
+--I think we should use this as an opportunity to revisit our web rules
+----Should Mary have to do everything?
+----Can we create a set of rules that determine when, where, and something gets added, edited, or deleted?
+----Can GIS have some more control over its portion of the site?
+----How might we use social media (namely Twitter & Facebook) to inform people about what's going on, deadlines, etc
+------Main St.: Facebook
+------CoC: Facebook, Twitter
+------County Clerk: Facebook
+------How are other departments using social media to enhance their service?  
+
