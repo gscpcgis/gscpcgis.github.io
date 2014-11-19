@@ -56,7 +56,7 @@ footer {
    height:20px;
    width:100%;
    background:rgba(102, 141, 60, 75);
-   padding-bottom: 7px;
+   /*padding-bottom: 7px;*/
    padding-right: 13px;
    
    font-family: 'Roboto Slab';
