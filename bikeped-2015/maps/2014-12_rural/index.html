@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>BikePed 2015 - December 2014 Rural Map Annos</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.4/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.4/mapbox.css' rel='stylesheet' />
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+</style>
+</head>
+<body>
+<div id='map'></div>
+
+<script>
+L.mapbox.accessToken = 'pk.eyJ1IjoiZ3NjcGxhbm5pbmciLCJhIjoiRVZMNXpsQSJ9.5OxUlJTCDplPkdkKNlB91A';
+var map = L.map('map').setView([38.33,-84.56], 11);
+
+L.control.layers({
+    'Base Map': L.mapbox.tileLayer('gscplanning.rural_base').addTo(map),
+//    'Grey Map': L.mapbox.tileLayer('examples.map-20v6611k')
+}, {
+    'Pedestrian': L.mapbox.tileLayer('gscplanning.2014-12_rural_ped'),
+    'Bike': L.mapbox.tileLayer('gscplanning.2014-12_rural_bike')
+}).addTo(map);
+</script>
+</body>
+</html>
